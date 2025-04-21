@@ -1,0 +1,2 @@
+# this folder contains input files if you are not using browser for running the application.
+  in this case run the file app.py by the command : python3 app.py
