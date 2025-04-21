@@ -10,10 +10,10 @@ Features:
 
 Setup:
 
-- git clone <git-repo>
+- git clone Reconciliation-Logic-MVP
 - cd Reconciliation-Logic-MVP
-- python3 -m venv venv
-- source venv/bin/activate
+- python3 -m venv Reconciliation-Logic-MVP
+- source Reconciliation-Logic-MVP/bin/activate
 - pip install -r requirements.txt
 - streamlit run ui.py  #run this cmd to get the url on the browser.
 
