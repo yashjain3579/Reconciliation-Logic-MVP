@@ -1,0 +1,3 @@
+amount_tolerance: 1
+allowed_date_diff_days: 3
+similarity_threshold: 40
