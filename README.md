@@ -11,7 +11,7 @@ Features:
 Setup:
 
 - git clone <git-repo>
-- cd <assignment>
+- cd Reconciliation-Logic-MVP
 - python3 -m venv venv
 - source venv/bin/activate
 - pip install -r requirements.txt
