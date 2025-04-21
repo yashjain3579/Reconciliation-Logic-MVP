@@ -15,7 +15,7 @@ Setup:
 - python3 -m venv venv
 - source venv/bin/activate
 - pip install -r requirements.txt
-- python3 ui.py  #run this cmd to get the url on the browser.
+- streamlit run ui.py  #run this cmd to get the url on the browser.
 
 Output:
 
