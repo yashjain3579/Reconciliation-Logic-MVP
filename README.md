@@ -4,9 +4,9 @@ Reconciliation Logic MVP ---> Match transactions between bank statements and led
 
 Features:
 
-Fuzzy match on descriptions (RapidFuzz), 
-Amount & date tolerance-based matching,
-Clear unmatched reasons.
+- Fuzzy match on descriptions (RapidFuzz), 
+- Amount & date tolerance-based matching,
+- Clear unmatched reasons.
 
 Setup:
 
@@ -19,7 +19,7 @@ Setup:
 
 Output:
 
-csv files in output dir for match and umatch,
-matched: list of matched records,
-unmatched_bank: bank entries with mismatch reasons,
-unmatched_ledger: ledger entries with mismatch reason.
+- csv files in output dir for match and umatch,
+- matched: list of matched records,
+- unmatched_bank: bank entries with mismatch reasons,
+- unmatched_ledger: ledger entries with mismatch reason.
